@@ -5,7 +5,7 @@ subtitle:   函数式编程框架 ReactiveCocoa 进阶
 date:       2017-01-06
 author:     BY
 header-img: img/post-bg-ios9-web.jpg
-catalog: true
+catalog: false
 tags:
     - iOS
     - ReactiveCocoa
